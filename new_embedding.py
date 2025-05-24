@@ -27,7 +27,7 @@ class AzureOpenAIEmbeddings(Embeddings):
 
 # Set your Azure OpenAI endpoint and subscription key
 subscription_key = ""CQRRajGnwjez3oSE7I4b8YlRvCopN1TlpqWz8PDayedXJRQAOCjBJQQJ99BEACHYHv6XJ3w3AAABACOGnSZJ"
-api_version = "2024-12-01-preview""  # Replace with your actual key
+api_version = "2024-12-01-preview"  # Replace with your actual key
 endpoint = "https://hackathon-2025-ltim.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2023-05-15"
 
 # Initialize the embedding model
